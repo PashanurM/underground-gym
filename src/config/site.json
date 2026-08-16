@@ -1,0 +1,49 @@
+{
+  "template": "gym",
+  "brand": {
+    "name": "Underground Gym",
+    "shortName": "Underground",
+    "tagline": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "social": {
+      "instagram": "",
+      "youtube": "",
+      "x": ""
+    },
+    "logo": "/brand/logo.png"
+  },
+  "colors": {
+    "bg": "#221e0b",
+    "bgElevated": "#2e2a14",
+    "surface": "#38341b",
+    "surface2": "#494425",
+    "text": "#f2f4f3",
+    "muted": "#adab8b",
+    "accent": "#f9cb04",
+    "accent2": "#f8b420",
+    "logoBg": "#000000"
+  },
+  "layout": {
+    "headerLogoBg": false,
+    "footerLogoBg": false
+  },
+  "pages": {
+    "home": true,
+    "about": true,
+    "branches": true,
+    "halls": true,
+    "trainers": true,
+    "services": true,
+    "tools": true,
+    "equipment": true,
+    "pricing": true,
+    "shop": true,
+    "blog": true,
+    "faq": true,
+    "contact": true,
+    "auth": false
+  }
+}

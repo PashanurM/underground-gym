@@ -1,0 +1,688 @@
+{
+  "meta": {
+    "titleDefault": "{name} | Premium Training",
+    "titleTemplate": "{title} | {name}",
+    "description": ""
+  },
+  "brand": {
+    "name": "Underground Gym",
+    "shortName": "Underground",
+    "tagline": "",
+    "eyebrow": "Underground Gym"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "gym": "Gym",
+    "branches": "Branches",
+    "halls": "Halls",
+    "trainers": "Trainers",
+    "services": "Services",
+    "tools": "Tools",
+    "equipment": "Equipment",
+    "pricing": "Pricing",
+    "shop": "Shop",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "join": "Join",
+    "joinForge": "Join {shortName}",
+    "dashboard": "Dashboard",
+    "logout": "Logout",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language"
+  },
+  "share": {
+    "badge": "Social booking",
+    "title": "QR & share link",
+    "subtitle": "Activate your public booking link and QR code for Instagram, WhatsApp, and more.",
+    "activate": "Activate link",
+    "deactivate": "Deactivate",
+    "shareLink": "Share link",
+    "copyLink": "Copy link",
+    "copied": "Copied",
+    "preview": "Preview page",
+    "socialHint": "Share this QR or link on social media. Visitors land on your profile with a direct book CTA.",
+    "inactiveHint": "Your share link and QR are off. Activate them to let clients book from your socials.",
+    "inactiveTitle": "Link inactive",
+    "inactiveBody": "This trainer has not activated their public booking link yet.",
+    "publicBadge": "Book this coach",
+    "fullProfile": "Full profile"
+  },
+  "footer": {
+    "explore": "Explore",
+    "visit": "Visit",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "rights": "© {year} {name}. Train with intent."
+  },
+  "common": {
+    "backHome": "Back home",
+    "loading": "Loading…",
+    "years": "years",
+    "capacity": "Capacity {count}",
+    "exploreHall": "Explore hall",
+    "getAccess": "Get access",
+    "askAboutThis": "Ask about this",
+    "allTrainers": "All trainers",
+    "trainersCount": "{count, plural, one {# trainer} other {# trainers}}",
+    "viewPricing": "View pricing",
+    "bookSession": "Book session",
+    "bookTrainer": "Book trainer",
+    "moreProducts": "More products",
+    "inquireInClub": "Inquire in club",
+    "seeHalls": "See halls",
+    "trainingTools": "Training tools",
+    "viewEquipment": "View equipment",
+    "sessionTypes": "Session types",
+    "features": "Features",
+    "min": "min",
+    "mostPopular": "Most popular",
+    "startPlan": "Start {name}",
+    "backBlog": "← Blog",
+    "backShop": "← Shop",
+    "hallLabel": "Hall 0{n}",
+    "hallsZallar": "Halls",
+    "facilityAlt": "{name} facility",
+    "gymFloorAlt": "Gym floor",
+    "perMonth": "/ month",
+    "scrollTop": "Back to top"
+  },
+  "home": {
+    "heroHeadline": "Train harder. Become forged.",
+    "heroSub": "Strength, conditioning, and recovery under one roof—coached with intent.",
+    "joinCta": "Join Forge",
+    "bookCta": "Book a trainer",
+    "coachesTitle": "Coaches who push",
+    "coachesSub": "Book sessions with specialists across strength, HIIT, mobility, and combat.",
+    "scrollFloors": "Scroll the floors",
+    "scrollFloorsSub": "Purpose-built halls stack as you scroll — strength, cycle, recovery, combat.",
+    "programsTitle": "Programs & services",
+    "programsSub": "From strength systems to nutrition coaching—pick your path.",
+    "pricingTitle": "Membership that matches intensity",
+    "pricingSub": "Open floor, unlimited classes, or full coaching stack—choose your forge level.",
+    "blogTitle": "From the floor",
+    "blogSub": "Programming notes, recovery, and training culture.",
+    "testimonialsTitle": "What members say",
+    "testimonialsSub": "Real feedback from athletes training at Forge."
+  },
+  "about": {
+    "title": "About Forge",
+    "subtitle": "A training house built for athletes who want structure, atmosphere, and results.",
+    "lead": "We forged a space where effort is visible and progress is measured.",
+    "body": "Forge Athletics started as a strength collective and grew into a full facility—strength floor, cycle studio, combat bay, and recovery suite under one roof. We coach beginners through competitors with the same standard: show up, train smart, leave better.",
+    "valuesTitle": "What we stand for",
+    "valuesSub": "Three principles that shape every session on the floor.",
+    "values": {
+      "v1Title": "Intensity with intent",
+      "v1Body": "Every session has a purpose. We program hard work that compounds.",
+      "v2Title": "Coaching first",
+      "v2Body": "Machines don't correct form. Our coaches do—on the floor, every day.",
+      "v3Title": "Recover to rise",
+      "v3Body": "Strength without recovery is short-lived. The suite exists for a reason."
+    }
+  },
+  "pages": {
+    "trainers": {
+      "title": "Trainers",
+      "subtitle": "Reserve one-on-one sessions with coaches who specialize in your goals."
+    },
+    "branches": {
+      "title": "Branches",
+      "subtitle": "Find a Forge location near you—each with its own floor and coaching team.",
+      "trainersLabel": "Coaches",
+      "trainersTitle": "Trainers at this branch",
+      "trainersSubtitle": "Book sessions with coaches based at this location.",
+      "noTrainers": "No trainers listed at this branch yet."
+    },
+    "halls": {
+      "title": "Halls",
+      "subtitle": "Zallar — purpose-built rooms for strength, cycle, recovery, and combat."
+    },
+    "services": {
+      "title": "Services",
+      "subtitle": "Classes, coaching, and programs designed to move the needle."
+    },
+    "pricing": {
+      "title": "Pricing",
+      "subtitle": "A clear list of what you pay — name, price, done.",
+      "moreInfo": "More info",
+      "close": "Close"
+    },
+    "pricingOld": {
+      "title": "Memberships",
+      "subtitle": "Pick the membership that matches how hard you want to train."
+    },
+    "shop": {
+      "title": "Shop",
+      "subtitle": "Apparel and gear for training days.",
+      "all": "All",
+      "count": "{count, plural, one {# product} other {# products}}",
+      "viewProduct": "View product",
+      "inClub": "Available to pick up in club",
+      "related": "More from the shop",
+      "empty": "No products in this category yet."
+    },
+    "tools": {
+      "title": "Tools",
+      "subtitle": "Calculators for training and nutrition planning.",
+      "needMachines": "Need the machines?",
+      "needMachinesSub": "Browse racks, bikes, bags, and recovery gear across every hall."
+    },
+    "equipment": {
+      "title": "Equipment",
+      "subtitle": "Machines, racks, and recovery tools across every hall."
+    },
+    "blog": {
+      "title": "Blog",
+      "subtitle": "Training notes from the Forge floor."
+    },
+    "faq": {
+      "title": "FAQ",
+      "subtitle": "Quick answers on membership, booking, and visiting Forge."
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "Tour the floor, ask about memberships, or get coaching advice.",
+      "visit": "Visit",
+      "mapPlaceholder": "Map placeholder · {city}"
+    },
+    "login": {
+      "title": "Login",
+      "subtitle": "Access your bookings and dashboard."
+    },
+    "register": {
+      "title": "Register",
+      "subtitle": "Create a member account to book trainers."
+    },
+    "reserve": {
+      "title": "Book {name}",
+      "subtitle": "Choose a session type, date, and open slot."
+    },
+    "dashboard": {
+      "title": "Dashboard"
+    },
+    "notFound": {
+      "title": "Page not forged yet",
+      "body": "That route doesn't exist."
+    }
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "signIn": "Sign in",
+    "createAccount": "Create account",
+    "noAccount": "No account?",
+    "register": "Register",
+    "haveAccount": "Already have an account?",
+    "demoAccounts": "Demo profiles",
+    "demoHint": "Tap a role to fill login credentials.",
+    "selected": "Selected",
+    "invalid": "Invalid email or password.",
+    "exists": "An account with this email already exists.",
+    "passwordShort": "Password must be at least 6 characters.",
+    "roles": {
+      "admin": "Admin",
+      "trainer": "Trainer",
+      "user": "Member"
+    },
+    "roleHints": {
+      "admin": "Facility overview, trainers, products, all bookings.",
+      "trainer": "Schedule requests, accept/decline, QR share link.",
+      "user": "Book coaches and manage your sessions."
+    }
+  },
+  "contactForm": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send message",
+    "fillAll": "Please fill in all fields.",
+    "validEmail": "Enter a valid email.",
+    "sent": "Message received (demo). We'll get back to you soon."
+  },
+  "booking": {
+    "signInPrompt": "Sign in to reserve a session with {name}.",
+    "signInToBook": "Sign in to book",
+    "booked": "Booked",
+    "redirecting": "Redirecting to your dashboard…",
+    "step1": "1. Session type",
+    "step2": "2. Date",
+    "step3": "3. Time slot",
+    "pending": "Pending confirmation from trainer",
+    "confirm": "Confirm booking"
+  },
+  "dashboard": {
+    "roleDashboard": "{role} dashboard",
+    "yourBookings": "Your bookings",
+    "noBookings": "No bookings yet.",
+    "findTrainer": "Find a trainer",
+    "incoming": "Incoming bookings",
+    "noRequests": "No booking requests yet.",
+    "accept": "Accept",
+    "decline": "Decline",
+    "cancel": "Cancel",
+    "trainers": "Trainers",
+    "saloons": "Saloons",
+    "products": "Products",
+    "allBookings": "All bookings",
+    "noBookingsYet": "No bookings yet.",
+    "adminBadge": "Admin control",
+    "adminIntro": "Oversee trainers, halls, shop catalog, and every booking across {shortName}.",
+    "trainerBadge": "Coach desk",
+    "trainerIntro": "Manage session requests and activate your social booking QR.",
+    "memberBadge": "Member hub",
+    "memberIntro": "Track your sessions and book the next coach in a few taps.",
+    "viewProfile": "View profile",
+    "pendingCount": "Pending",
+    "confirmedCount": "Confirmed",
+    "totalRequests": "Total"
+  },
+  "tools": {
+    "bmi": "BMI",
+    "height": "Height (cm)",
+    "weight": "Weight (kg)",
+    "bmiNote": "Estimate only—not medical advice.",
+    "oneRm": "1RM Estimate",
+    "weightLifted": "Weight lifted (kg)",
+    "reps": "Reps",
+    "oneRmNote": "Epley formula estimate.",
+    "macros": "Macro Guide",
+    "bodyweight": "Bodyweight (kg)",
+    "goal": "Goal",
+    "cut": "Cut",
+    "maintain": "Maintain",
+    "bulk": "Bulk",
+    "kcal": "kcal",
+    "macrosLine": "P {protein}g · C {carbs}g · F {fat}g"
+  },
+  "status": {
+    "pending": "pending",
+    "confirmed": "confirmed",
+    "declined": "declined",
+    "cancelled": "cancelled"
+  },
+  "content": {
+    "trainers": {
+      "maya-stone": {
+        "title": "Strength Coach",
+        "bio": "Maya builds raw power with precise programming. Former competitive powerlifter turned coach who thrives on progressive overload and form mastery.",
+        "specialties": [
+          "Powerlifting",
+          "Hypertrophy",
+          "Mobility"
+        ]
+      },
+      "kai-rivers": {
+        "title": "HIIT & Conditioning",
+        "bio": "Kai engineers high-intensity sessions that torch fat and build athletic endurance without burning you out.",
+        "specialties": [
+          "HIIT",
+          "Metabolic Conditioning",
+          "Athletic Performance"
+        ]
+      },
+      "elena-voss": {
+        "title": "Mobility & Recovery",
+        "bio": "Elena restores range and resilience. Her sessions blend mobility, breathwork, and smart recovery protocols.",
+        "specialties": [
+          "Mobility",
+          "Recovery",
+          "Corrective Exercise"
+        ]
+      },
+      "dante-cole": {
+        "title": "Boxing & Functional",
+        "bio": "Dante brings fight-gym energy to every session—footwork, power, and functional strength that transfers to real life.",
+        "specialties": [
+          "Boxing",
+          "Functional Strength",
+          "Core"
+        ]
+      }
+    },
+    "sessionTypes": {
+      "pt": "Personal Training",
+      "consult": "Program Consult",
+      "intro": "Class Intro"
+    },
+    "branches": {
+      "downtown-forge": {
+        "name": "Downtown Forge",
+        "description": "Our flagship floor in the heart of Metro City—full strength hall, cycle studio, and coaching desk open late.",
+        "address": "420 Ironworks Ave",
+        "city": "Metro City",
+        "phone": "+1 (555) 014-2090",
+        "hours": "Mon–Fri 5:00–23:00 · Sat–Sun 7:00–21:00",
+        "features": [
+          "Full strength floor",
+          "Cycle studio",
+          "Recovery suite",
+          "Member lounge"
+        ]
+      },
+      "riverside-forge": {
+        "name": "Riverside Forge",
+        "description": "Riverfront training house focused on conditioning, mobility, and recovery with floor-to-ceiling glass and open mats.",
+        "address": "88 Quayline Rd",
+        "city": "Metro City",
+        "phone": "+1 (555) 014-2091",
+        "hours": "Mon–Fri 6:00–22:00 · Sat–Sun 8:00–20:00",
+        "features": [
+          "HIIT zone",
+          "Mobility studio",
+          "Cold plunge",
+          "Outdoor warm-up deck"
+        ]
+      },
+      "west-end-forge": {
+        "name": "West End Forge",
+        "description": "Combat-forward branch with heavy bags, functional lanes, and coaches who train fighters and everyday athletes alike.",
+        "address": "15 Anvil Court",
+        "city": "Metro City",
+        "phone": "+1 (555) 014-2092",
+        "hours": "Mon–Fri 5:30–22:30 · Sat–Sun 8:00–20:00",
+        "features": [
+          "Combat bay",
+          "Functional lanes",
+          "Sparring mats",
+          "Performance track"
+        ]
+      }
+    },
+    "halls": {
+      "strength-floor": {
+        "name": "Strength Floor",
+        "description": "Olympic platforms, competition racks, and specialty bars. Built for serious lifting with open sightlines and dense rubber flooring.",
+        "features": [
+          "Power racks",
+          "Bumper plates",
+          "Deadlift platforms",
+          "Cable stations"
+        ]
+      },
+      "cycle-studio": {
+        "name": "Cycle Studio",
+        "description": "Immersive ride room with synced lighting and instructor-led climbs. High-energy sessions that feel like a night ride.",
+        "features": [
+          "Smart bikes",
+          "LED sync",
+          "Heart-rate tracking",
+          "Sound system"
+        ]
+      },
+      "recovery-suite": {
+        "name": "Recovery Suite",
+        "description": "Quiet zone for soft tissue work, breath practice, and post-session reset. Where intensity meets restoration.",
+        "features": [
+          "Foam rolling",
+          "Stretch zones",
+          "Cold plunge access",
+          "Massage guns"
+        ]
+      },
+      "combat-bay": {
+        "name": "Combat Bay",
+        "description": "Heavy bags, open mats, and sparring space for boxing and functional fight training.",
+        "features": [
+          "Heavy bags",
+          "Open mats",
+          "Speed bags",
+          "Mirror wall"
+        ]
+      }
+    },
+    "services": {
+      "strength-systems": {
+        "name": "Strength Systems",
+        "description": "Periodized lifting programs for hypertrophy, strength, and athletic power—coached live on the floor.",
+        "category": "Training"
+      },
+      "forge-hiit": {
+        "name": "Forge HIIT",
+        "description": "Short, savage intervals that spike metabolism and build work capacity in under 45 minutes.",
+        "category": "Conditioning"
+      },
+      "mobility-lab": {
+        "name": "Mobility Lab",
+        "description": "Joint prep, soft tissue, and movement quality sessions that keep you training longer.",
+        "category": "Recovery"
+      },
+      "boxing-fundamentals": {
+        "name": "Boxing Fundamentals",
+        "description": "Stance, punch mechanics, and pad work for beginners through intermediate fighters.",
+        "category": "Combat"
+      },
+      "nutrition-coaching": {
+        "name": "Nutrition Coaching",
+        "description": "Practical fueling plans aligned with your training block—no crash diets, just consistency.",
+        "category": "Coaching"
+      },
+      "group-cycles": {
+        "name": "Group Cycles",
+        "description": "Instructor-led rides with climbs, sprints, and soundtrack-driven pacing.",
+        "category": "Cardio"
+      }
+    },
+    "pricing": {
+      "ignite": {
+        "name": "Ignite",
+        "description": "Open floor access and foundational classes.",
+        "features": [
+          "Gym floor access",
+          "2 group classes / week",
+          "Locker day use",
+          "App workout library"
+        ]
+      },
+      "forge": {
+        "name": "{shortName}",
+        "description": "Unlimited classes plus recovery suite access.",
+        "features": [
+          "Unlimited group classes",
+          "Recovery suite access",
+          "1 PT session / month",
+          "Guest pass monthly",
+          "Priority booking"
+        ]
+      },
+      "elite": {
+        "name": "Elite",
+        "description": "Full coaching stack for committed athletes.",
+        "features": [
+          "Everything in {shortName}",
+          "4 PT sessions / month",
+          "Nutrition consult",
+          "Custom programming",
+          "Bring-a-friend unlimited"
+        ]
+      }
+    },
+    "priceList": {
+      "day-pass": {
+        "name": "Day Pass",
+        "description": "Open floor access for one training day.",
+        "details": "Train until close on the open floor — racks, platforms, cardio, and locker access included. Towels at the desk. Peak hours fill fast, so arrive early if you want a platform. Valid for the calendar day you check in."
+      },
+      "personal-training": {
+        "name": "Personal Training",
+        "description": "A 60-minute 1:1 session with a coach.",
+        "details": "Sixty minutes one-to-one with a coach: warm-up, strength or conditioning block, and a cooldown. Programming is built around your goal — strength, fat loss, or return-to-training. Book at the desk or with your coach. Cancel at least 12 hours ahead."
+      },
+      "group-class": {
+        "name": "Group Class",
+        "description": "Coach-led session on the class timetable.",
+        "details": "A coached group session from the weekly timetable — strength, cycle, combat, or conditioning. Arrive 10 minutes early for setup. Drop-in is one class; members book in the app. Bring water and indoor shoes."
+      },
+      "recovery-session": {
+        "name": "Recovery Session",
+        "description": "Stretch, mobility, and recovery suite time.",
+        "details": "Guided mobility plus time in the recovery suite: stretch, breath work, and soft-tissue tools. Best the day after heavy lifting or a long class block. Sessions last about 45 minutes. Ask the floor coach if you are new to the suite."
+      },
+      "nutrition-consult": {
+        "name": "Nutrition Consult",
+        "description": "A focused plan for fueling your training.",
+        "details": "A 45-minute consult covering how you eat around training: protein targets, meal timing, and a simple weekly plan. Bring a typical food log if you have one. Follow-ups can be booked separately once the first plan is in place."
+      }
+    },
+    "products": {
+      "forge-performance-tee": {
+        "name": "Forge Performance Tee",
+        "description": "Breathable training tee with moisture-wicking fabric and a clean athletic cut.",
+        "category": "Apparel"
+      },
+      "iron-grip-straps": {
+        "name": "Iron Grip Straps",
+        "description": "Heavy-duty lifting straps for pulls and deadlifts when grip is the limiter.",
+        "category": "Accessories"
+      },
+      "forge-shaker": {
+        "name": "Forge Shaker",
+        "description": "Leak-proof 700ml shaker with mixing grid and matte black finish.",
+        "category": "Accessories"
+      },
+      "recovery-foam-roller": {
+        "name": "Recovery Foam Roller",
+        "description": "High-density roller for post-session soft tissue work.",
+        "category": "Recovery"
+      },
+      "forge-heavy-hoodie": {
+        "name": "Forge Heavy Hoodie",
+        "description": "Warm-up hoodie with reinforced seams and embroidered mark.",
+        "category": "Apparel"
+      },
+      "resistance-bands-set": {
+        "name": "Resistance Bands Set",
+        "description": "Four-level loop bands for warm-ups, assistance, and accessory work.",
+        "category": "Equipment"
+      }
+    },
+    "equipment": {
+      "competition-power-rack": {
+        "name": "Competition Power Rack",
+        "description": "Full cages with safety pins, band pegs, and dual pull-up stations for serious barbell work.",
+        "category": "Strength",
+        "hall": "Strength Floor"
+      },
+      "olympic-platforms": {
+        "name": "Olympic Platforms",
+        "description": "Dedicated pull/push platforms with bumper plates and calibrated bars.",
+        "category": "Strength",
+        "hall": "Strength Floor"
+      },
+      "smart-cycle-bikes": {
+        "name": "Smart Cycle Bikes",
+        "description": "Connected bikes with resistance sync, cadence tracking, and instructor-led rides.",
+        "category": "Cardio",
+        "hall": "Cycle Studio"
+      },
+      "heavy-bag-line": {
+        "name": "Heavy Bag Line",
+        "description": "Multiple bag stations for power, combinations, and conditioning rounds.",
+        "category": "Combat",
+        "hall": "Combat Bay"
+      },
+      "cold-plunge": {
+        "name": "Cold Plunge",
+        "description": "Temperature-controlled plunge for post-session recovery and nervous system reset.",
+        "category": "Recovery",
+        "hall": "Recovery Suite"
+      },
+      "cable-functional-rig": {
+        "name": "Cable Functional Rig",
+        "description": "Dual adjustable cables for accessory work, rehab patterns, and athletic drills.",
+        "category": "Functional",
+        "hall": "Strength Floor"
+      }
+    },
+    "blog": {
+      "progressive-overload-without-burnout": {
+        "title": "Progressive Overload Without Burnout",
+        "excerpt": "How to add load week after week while protecting joints, sleep, and long-term progress.",
+        "content": "Progressive overload is the engine of strength—but only when recovery keeps pace.\n\nStart by tracking one primary lift per session. Add the smallest useful increment when form stays clean for all working sets. If bar speed slows dramatically or joints ache the next morning, hold load and chase better reps instead.\n\nDeload every 4–6 weeks: cut volume by ~40% while keeping intensity familiar. Pair this with sleep targets and protein consistency. The goal is not endless escalation—it is sustainable capacity.\n\nForge tip: film your last working set. Visual feedback catches technical drift before injury does.",
+        "tags": [
+          "Strength",
+          "Programming"
+        ]
+      },
+      "hiit-that-actually-transfers": {
+        "title": "HIIT That Actually Transfers",
+        "excerpt": "Not all intervals are equal. Build conditioning that supports your sport and lifts.",
+        "content": "Random burpee circuits are not a conditioning plan.\n\nEffective HIIT matches work:rest to the energy system you want. For strength athletes, shorter sprints with longer recovery preserve power. For fat loss phases, slightly longer work intervals with moderate rest raise average heart rate without wrecking the next squat day.\n\nKeep sessions under 30 minutes of hard work. Warm up thoroughly. Cool down with nasal breathing. Track RPE—not just calories.\n\nForge tip: place HIIT after skill work, never before a heavy lower-body day.",
+        "tags": [
+          "HIIT",
+          "Conditioning"
+        ]
+      },
+      "mobility-is-not-optional": {
+        "title": "Mobility Is Not Optional",
+        "excerpt": "Range you own is range you can load. A practical weekly mobility template.",
+        "content": "Mobility work is training, not a soft add-on.\n\nSpend 10 minutes before lifting on joints you load that day. Hips and ankles before squats. Thoracic rotation before pressing. After training, use longer holds and soft tissue for tissues that felt sticky.\n\nConsistency beats marathon stretch sessions. Three short sessions weekly outperform one hour on Sunday.\n\nForge tip: test a position, train it, retest. If nothing changes, change the drill—not just the duration.",
+        "tags": [
+          "Mobility",
+          "Recovery"
+        ]
+      }
+    },
+    "faq": {
+      "f1": {
+        "q": "Do I need experience to join Forge?",
+        "a": "No. We coach beginners through advanced athletes. Your first session includes an orientation so you know the floor, safety standards, and how to book trainers."
+      },
+      "f2": {
+        "q": "How do trainer reservations work?",
+        "a": "Pick a trainer, choose a session type, select an open slot, and confirm. You can manage bookings from your dashboard. Trainers can confirm or decline pending requests."
+      },
+      "f3": {
+        "q": "Can I freeze my membership?",
+        "a": "Yes. Forge and Elite plans include one freeze period of up to 30 days per year. Contact us at least 5 days before the freeze start date."
+      },
+      "f4": {
+        "q": "What should I bring to my first visit?",
+        "a": "Training shoes, a water bottle, and clothes you can move in. Towels and day lockers are available on-site. We recommend arriving 15 minutes early."
+      },
+      "f5": {
+        "q": "Are the saloons included in all plans?",
+        "a": "Strength Floor access is included in every plan. Cycle Studio, Recovery Suite, and Combat Bay access vary by membership tier—see Pricing for details."
+      },
+      "f6": {
+        "q": "Is there parking?",
+        "a": "Validated underground parking is available for members during training hours. Street parking and bike racks are nearby."
+      }
+    },
+    "static": {
+      "privacy": {
+        "title": "Privacy Policy",
+        "content": "{name} respects your privacy. This demo site stores account and booking data locally in your browser for demonstration purposes only.\n\nWe do not transmit personal information to a production server in this frontend-only build. In a live deployment, we would outline data controllers, retention periods, cookie use, and your rights under applicable privacy law.\n\nContact hello@forgeathletics.com for privacy questions."
+      },
+      "terms": {
+        "title": "Terms of Service",
+        "content": "By using {name} digital services, you agree to train responsibly and follow facility rules.\n\nMemberships are non-transferable. Bookings may be cancelled according to the policy shown at checkout. Training carries inherent risk—consult a physician before starting a new program.\n\nThis frontend demo is for presentation purposes and does not create a binding commercial contract."
+      },
+      "amenities": {
+        "title": "Amenities",
+        "content": "{name} includes a full strength floor, cycle studio, combat bay, and recovery suite.\n\nDay lockers, showers, filtered water, and towel service are available. Members on {shortName} and Elite plans receive recovery suite access and priority class booking.\n\nWifi covers the lounge and recovery areas. Guest passes depend on your membership tier."
+      }
+    },
+    "testimonials": {
+      "tm1": {
+        "quote": "The coaching is sharp and the halls feel purpose-built. I finally have a program that sticks.",
+        "role": "Forge member · 14 months"
+      },
+      "tm2": {
+        "quote": "Booking Maya was seamless. Progressive overload without ego lifting—exactly what I needed.",
+        "role": "Strength athlete"
+      },
+      "tm3": {
+        "quote": "Cycle studio nights hit different. Atmosphere is dark, loud, and focused—in the best way.",
+        "role": "HIIT regular"
+      },
+      "tm4": {
+        "quote": "Recovery suite after heavy days changed my consistency. Forge treats training like a craft.",
+        "role": "Elite plan"
+      }
+    }
+  }
+}

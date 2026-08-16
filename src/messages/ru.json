@@ -1,0 +1,688 @@
+{
+  "meta": {
+    "titleDefault": "{name} | Премиум-тренировки",
+    "titleTemplate": "{title} | {name}",
+    "description": "Тренируйся жёстче. Стань закалённым."
+  },
+  "brand": {
+    "name": "Underground Gym",
+    "shortName": "Underground",
+    "tagline": "Тренируйся жёстче. Стань закалённым.",
+    "eyebrow": "Underground Gym"
+  },
+  "nav": {
+    "home": "Главная",
+    "about": "О нас",
+    "gym": "Зал",
+    "branches": "Филиалы",
+    "halls": "Залы",
+    "trainers": "Тренеры",
+    "services": "Услуги",
+    "tools": "Инструменты",
+    "equipment": "Оборудование",
+    "pricing": "Цены",
+    "shop": "Магазин",
+    "blog": "Блог",
+    "faq": "Вопросы",
+    "contact": "Контакты",
+    "join": "Вступить",
+    "joinForge": "Вступить в {shortName}",
+    "dashboard": "Панель",
+    "logout": "Выйти",
+    "openMenu": "Открыть меню",
+    "closeMenu": "Закрыть меню",
+    "language": "Язык"
+  },
+  "footer": {
+    "explore": "Обзор",
+    "visit": "Визит",
+    "privacy": "Конфиденциальность",
+    "terms": "Условия",
+    "rights": "© {year} {name}. Тренируйся с намерением."
+  },
+  "common": {
+    "backHome": "На главную",
+    "loading": "Загрузка…",
+    "years": "лет",
+    "capacity": "Вместимость {count}",
+    "exploreHall": "Смотреть зал",
+    "getAccess": "Получить доступ",
+    "askAboutThis": "Спросить об этом",
+    "allTrainers": "Все тренеры",
+    "trainersCount": "{count, plural, one {# тренер} few {# тренера} many {# тренеров} other {# тренера}}",
+    "viewPricing": "Смотреть цены",
+    "bookSession": "Записаться на сессию",
+    "bookTrainer": "Записаться к тренеру",
+    "moreProducts": "Больше товаров",
+    "inquireInClub": "Спросить в клубе",
+    "seeHalls": "Смотреть залы",
+    "trainingTools": "Инструменты тренировок",
+    "viewEquipment": "Смотреть оборудование",
+    "sessionTypes": "Типы сессий",
+    "features": "Особенности",
+    "min": "мин",
+    "mostPopular": "Самый популярный",
+    "startPlan": "Начать {name}",
+    "backBlog": "← Блог",
+    "backShop": "← Магазин",
+    "hallLabel": "Зал 0{n}",
+    "hallsZallar": "Залы",
+    "facilityAlt": "Зал {name}",
+    "gymFloorAlt": "Зал",
+    "perMonth": "/ мес.",
+    "scrollTop": "Наверх"
+  },
+  "home": {
+    "heroHeadline": "Тренируйся жёстче. Стань закалённым.",
+    "heroSub": "Сила, кондиция и восстановление под одной крышей — с целенаправленным коучингом.",
+    "joinCta": "Вступить в {shortName}",
+    "bookCta": "Записаться к тренеру",
+    "coachesTitle": "Тренеры, которые двигают вперёд",
+    "coachesSub": "Записывайтесь к специалистам по силе, HIIT, мобильности и единоборствам.",
+    "scrollFloors": "Листайте этажи",
+    "scrollFloorsSub": "Специализированные залы выстраиваются при прокрутке — сила, вело, восстановление, бой.",
+    "programsTitle": "Программы и услуги",
+    "programsSub": "От силовых систем до коучинга по питанию — выберите свой путь.",
+    "pricingTitle": "Членство под вашу интенсивность",
+    "pricingSub": "Открытый зал, безлимитные занятия или полный коучинг — выберите уровень forge.",
+    "blogTitle": "С пола зала",
+    "blogSub": "Заметки по программированию, восстановлению и культуре тренировок.",
+    "testimonialsTitle": "Что говорят участники",
+    "testimonialsSub": "Реальные отзывы спортсменов, тренирующихся в {shortName}."
+  },
+  "about": {
+    "title": "О {name}",
+    "subtitle": "Тренировочный дом для спортсменов, которым нужны структура, атмосфера и результат.",
+    "lead": "Мы выковали пространство, где усилие видно, а прогресс измеряется.",
+    "body": "{name} начался как силовой коллектив и вырос в полноценный комплекс — силовой зал, велостудия, боевая зона и зона восстановления под одной крышей. Мы тренируем от новичков до соревнующихся по одному стандарту: приходи, тренируйся умно, уходи лучше.",
+    "valuesTitle": "За что мы стоим",
+    "valuesSub": "Три принципа, которые формируют каждую сессию на полу.",
+    "values": {
+      "v1Title": "Интенсивность с намерением",
+      "v1Body": "У каждой сессии есть цель. Мы программируем тяжёлую работу, которая накапливается.",
+      "v2Title": "Сначала коучинг",
+      "v2Body": "Тренажёры не исправляют технику. Это делают наши тренеры — на полу, каждый день.",
+      "v3Title": "Восстанавливайся, чтобы расти",
+      "v3Body": "Сила без восстановления недолговечна. Сюит существует неспроста."
+    }
+  },
+  "pages": {
+    "trainers": {
+      "title": "Тренеры",
+      "subtitle": "Бронируйте индивидуальные сессии с тренерами под ваши цели."
+    },
+    "branches": {
+      "title": "Филиалы",
+      "subtitle": "Найдите {shortName} рядом с вами — у каждого своя площадка и команда тренеров.",
+      "trainersLabel": "Тренеры",
+      "trainersTitle": "Тренеры этого филиала",
+      "trainersSubtitle": "Бронируйте сессии с тренерами этой локации.",
+      "noTrainers": "В этом филиале пока нет тренеров."
+    },
+    "halls": {
+      "title": "Залы",
+      "subtitle": "Zallar — специализированные помещения для силы, вело, восстановления и боя."
+    },
+    "services": {
+      "title": "Услуги",
+      "subtitle": "Занятия, коучинг и программы, которые дают результат."
+    },
+    "pricing": {
+      "title": "Цены",
+      "subtitle": "Простой список: название и цена.",
+      "moreInfo": "Подробнее",
+      "close": "Закрыть"
+    },
+    "pricingOld": {
+      "title": "Членство",
+      "subtitle": "Выберите членство под то, насколько жёстко хотите тренироваться."
+    },
+    "shop": {
+      "title": "Магазин",
+      "subtitle": "Одежда и снаряжение для тренировочных дней.",
+      "all": "Все",
+      "count": "{count, plural, one {# товар} few {# товара} other {# товаров}}",
+      "viewProduct": "Смотреть товар",
+      "inClub": "Можно забрать в клубе",
+      "related": "Ещё из магазина",
+      "empty": "В этой категории пока нет товаров."
+    },
+    "tools": {
+      "title": "Инструменты",
+      "subtitle": "Калькуляторы для планирования тренировок и питания.",
+      "needMachines": "Нужны тренажёры?",
+      "needMachinesSub": "Смотрите стойки, велосипеды, мешки и оборудование для восстановления во всех залах."
+    },
+    "equipment": {
+      "title": "Оборудование",
+      "subtitle": "Тренажёры, стойки и инструменты восстановления во всех залах."
+    },
+    "blog": {
+      "title": "Блог",
+      "subtitle": "Тренировочные заметки с пола {shortName}."
+    },
+    "faq": {
+      "title": "FAQ",
+      "subtitle": "Короткие ответы о членстве, бронировании и визите в {shortName}."
+    },
+    "contact": {
+      "title": "Контакты",
+      "subtitle": "Осмотрите зал, спросите о членстве или получите совет по тренировкам.",
+      "visit": "Визит",
+      "mapPlaceholder": "Заглушка карты · {city}"
+    },
+    "login": {
+      "title": "Вход",
+      "subtitle": "Доступ к бронированиям и панели."
+    },
+    "register": {
+      "title": "Регистрация",
+      "subtitle": "Создайте аккаунт участника, чтобы бронировать тренеров."
+    },
+    "reserve": {
+      "title": "Записаться к {name}",
+      "subtitle": "Выберите тип сессии, дату и свободный слот."
+    },
+    "dashboard": {
+      "title": "Панель"
+    },
+    "notFound": {
+      "title": "Страница ещё не выкована",
+      "body": "Этого маршрута не существует."
+    }
+  },
+  "auth": {
+    "email": "Эл. почта",
+    "password": "Пароль",
+    "name": "Имя",
+    "signIn": "Войти",
+    "createAccount": "Создать аккаунт",
+    "noAccount": "Нет аккаунта?",
+    "register": "Регистрация",
+    "haveAccount": "Уже есть аккаунт?",
+    "demoAccounts": "Демо-профили",
+    "invalid": "Неверный email или пароль.",
+    "exists": "Аккаунт с этим email уже существует.",
+    "passwordShort": "Пароль должен быть не менее 6 символов.",
+    "demoHint": "Нажмите роль, чтобы подставить логин и пароль.",
+    "selected": "Выбрано",
+    "roles": {
+      "admin": "Админ",
+      "trainer": "Тренер",
+      "user": "Участник"
+    },
+    "roleHints": {
+      "admin": "Обзор зала, тренеры, товары, все записи.",
+      "trainer": "Заявки на сессии, принять/отклонить, QR-ссылка.",
+      "user": "Запись к тренерам и управление сессиями."
+    }
+  },
+  "contactForm": {
+    "name": "Имя",
+    "email": "Эл. почта",
+    "message": "Сообщение",
+    "send": "Отправить сообщение",
+    "fillAll": "Пожалуйста, заполните все поля.",
+    "validEmail": "Введите корректный email.",
+    "sent": "Сообщение получено (демо). Мы скоро свяжемся с вами."
+  },
+  "booking": {
+    "signInPrompt": "Войдите, чтобы забронировать сессию с {name}.",
+    "signInToBook": "Войти для записи",
+    "booked": "Забронировано",
+    "redirecting": "Перенаправление в панель…",
+    "step1": "1. Тип сессии",
+    "step2": "2. Дата",
+    "step3": "3. Временной слот",
+    "pending": "Ожидается подтверждение тренера",
+    "confirm": "Подтвердить бронь"
+  },
+  "dashboard": {
+    "roleDashboard": "Панель {role}",
+    "yourBookings": "Ваши бронирования",
+    "noBookings": "Бронирований пока нет.",
+    "findTrainer": "Найти тренера",
+    "incoming": "Входящие бронирования",
+    "noRequests": "Запросов на бронирование пока нет.",
+    "accept": "Принять",
+    "decline": "Отклонить",
+    "cancel": "Отменить",
+    "trainers": "Тренеры",
+    "saloons": "Залы",
+    "products": "Товары",
+    "allBookings": "Все бронирования",
+    "noBookingsYet": "Бронирований пока нет.",
+    "adminBadge": "Панель админа",
+    "adminIntro": "Управляйте тренерами, залами, каталогом и всеми записями в {shortName}.",
+    "trainerBadge": "Кабинет тренера",
+    "trainerIntro": "Обрабатывайте заявки и активируйте QR для записи из соцсетей.",
+    "memberBadge": "Кабинет участника",
+    "memberIntro": "Следите за сессиями и записывайтесь к тренеру в пару касаний.",
+    "viewProfile": "Профиль",
+    "pendingCount": "Ожидают",
+    "confirmedCount": "Подтверждены",
+    "totalRequests": "Всего"
+  },
+  "tools": {
+    "bmi": "ИМТ",
+    "height": "Рост (см)",
+    "weight": "Вес (кг)",
+    "bmiNote": "Только оценка — не медицинская рекомендация.",
+    "oneRm": "Оценка 1ПМ",
+    "weightLifted": "Поднятый вес (кг)",
+    "reps": "Повторения",
+    "oneRmNote": "Оценка по формуле Эпли.",
+    "macros": "Гид по макросам",
+    "bodyweight": "Вес тела (кг)",
+    "goal": "Цель",
+    "cut": "Сушка",
+    "maintain": "Поддержание",
+    "bulk": "Набор",
+    "kcal": "ккал",
+    "macrosLine": "Б {protein}г · У {carbs}г · Ж {fat}г"
+  },
+  "status": {
+    "pending": "ожидает",
+    "confirmed": "подтверждено",
+    "declined": "отклонено",
+    "cancelled": "отменено"
+  },
+  "content": {
+    "trainers": {
+      "maya-stone": {
+        "title": "Strength Coach",
+        "bio": "Maya builds raw power with precise programming. Former competitive powerlifter turned coach who thrives on progressive overload and form mastery.",
+        "specialties": [
+          "Powerlifting",
+          "Hypertrophy",
+          "Mobility"
+        ]
+      },
+      "kai-rivers": {
+        "title": "HIIT & Conditioning",
+        "bio": "Kai engineers high-intensity sessions that torch fat and build athletic endurance without burning you out.",
+        "specialties": [
+          "HIIT",
+          "Metabolic Conditioning",
+          "Athletic Performance"
+        ]
+      },
+      "elena-voss": {
+        "title": "Mobility & Recovery",
+        "bio": "Elena restores range and resilience. Her sessions blend mobility, breathwork, and smart recovery protocols.",
+        "specialties": [
+          "Mobility",
+          "Recovery",
+          "Corrective Exercise"
+        ]
+      },
+      "dante-cole": {
+        "title": "Boxing & Functional",
+        "bio": "Dante brings fight-gym energy to every session—footwork, power, and functional strength that transfers to real life.",
+        "specialties": [
+          "Boxing",
+          "Functional Strength",
+          "Core"
+        ]
+      }
+    },
+    "sessionTypes": {
+      "pt": "Персональная тренировка",
+      "consult": "Консультация по программе",
+      "intro": "Вводное занятие"
+    },
+    "branches": {
+      "downtown-forge": {
+        "name": "Downtown Forge",
+        "description": "Our flagship floor in the heart of Metro City—full strength hall, cycle studio, and coaching desk open late.",
+        "address": "420 Ironworks Ave",
+        "city": "Metro City",
+        "phone": "+1 (555) 014-2090",
+        "hours": "Mon–Fri 5:00–23:00 · Sat–Sun 7:00–21:00",
+        "features": [
+          "Full strength floor",
+          "Cycle studio",
+          "Recovery suite",
+          "Member lounge"
+        ]
+      },
+      "riverside-forge": {
+        "name": "Riverside Forge",
+        "description": "Riverfront training house focused on conditioning, mobility, and recovery with floor-to-ceiling glass and open mats.",
+        "address": "88 Quayline Rd",
+        "city": "Metro City",
+        "phone": "+1 (555) 014-2091",
+        "hours": "Mon–Fri 6:00–22:00 · Sat–Sun 8:00–20:00",
+        "features": [
+          "HIIT zone",
+          "Mobility studio",
+          "Cold plunge",
+          "Outdoor warm-up deck"
+        ]
+      },
+      "west-end-forge": {
+        "name": "West End Forge",
+        "description": "Combat-forward branch with heavy bags, functional lanes, and coaches who train fighters and everyday athletes alike.",
+        "address": "15 Anvil Court",
+        "city": "Metro City",
+        "phone": "+1 (555) 014-2092",
+        "hours": "Mon–Fri 5:30–22:30 · Sat–Sun 8:00–20:00",
+        "features": [
+          "Combat bay",
+          "Functional lanes",
+          "Sparring mats",
+          "Performance track"
+        ]
+      }
+    },
+    "halls": {
+      "strength-floor": {
+        "name": "Strength Floor",
+        "description": "Olympic platforms, competition racks, and specialty bars. Built for serious lifting with open sightlines and dense rubber flooring.",
+        "features": [
+          "Power racks",
+          "Bumper plates",
+          "Deadlift platforms",
+          "Cable stations"
+        ]
+      },
+      "cycle-studio": {
+        "name": "Cycle Studio",
+        "description": "Immersive ride room with synced lighting and instructor-led climbs. High-energy sessions that feel like a night ride.",
+        "features": [
+          "Smart bikes",
+          "LED sync",
+          "Heart-rate tracking",
+          "Sound system"
+        ]
+      },
+      "recovery-suite": {
+        "name": "Recovery Suite",
+        "description": "Quiet zone for soft tissue work, breath practice, and post-session reset. Where intensity meets restoration.",
+        "features": [
+          "Foam rolling",
+          "Stretch zones",
+          "Cold plunge access",
+          "Massage guns"
+        ]
+      },
+      "combat-bay": {
+        "name": "Combat Bay",
+        "description": "Heavy bags, open mats, and sparring space for boxing and functional fight training.",
+        "features": [
+          "Heavy bags",
+          "Open mats",
+          "Speed bags",
+          "Mirror wall"
+        ]
+      }
+    },
+    "services": {
+      "strength-systems": {
+        "name": "Strength Systems",
+        "description": "Periodized lifting programs for hypertrophy, strength, and athletic power—coached live on the floor.",
+        "category": "Training"
+      },
+      "forge-hiit": {
+        "name": "Forge HIIT",
+        "description": "Short, savage intervals that spike metabolism and build work capacity in under 45 minutes.",
+        "category": "Conditioning"
+      },
+      "mobility-lab": {
+        "name": "Mobility Lab",
+        "description": "Joint prep, soft tissue, and movement quality sessions that keep you training longer.",
+        "category": "Recovery"
+      },
+      "boxing-fundamentals": {
+        "name": "Boxing Fundamentals",
+        "description": "Stance, punch mechanics, and pad work for beginners through intermediate fighters.",
+        "category": "Combat"
+      },
+      "nutrition-coaching": {
+        "name": "Nutrition Coaching",
+        "description": "Practical fueling plans aligned with your training block—no crash diets, just consistency.",
+        "category": "Coaching"
+      },
+      "group-cycles": {
+        "name": "Group Cycles",
+        "description": "Instructor-led rides with climbs, sprints, and soundtrack-driven pacing.",
+        "category": "Cardio"
+      }
+    },
+    "pricing": {
+      "ignite": {
+        "name": "Ignite",
+        "description": "Доступ к открытому залу и базовым занятиям.",
+        "features": [
+          "Доступ в зал",
+          "2 групповых занятия / неделю",
+          "Дневной шкафчик",
+          "Библиотека тренировок в приложении"
+        ]
+      },
+      "forge": {
+        "name": "{shortName}",
+        "description": "Безлимитные занятия плюс доступ к зоне восстановления.",
+        "features": [
+          "Безлимитные групповые занятия",
+          "Доступ к зоне восстановления",
+          "1 PT-сессия / месяц",
+          "Гостевой пропуск ежемесячно",
+          "Приоритетное бронирование"
+        ]
+      },
+      "elite": {
+        "name": "Elite",
+        "description": "Полный коучинг для целеустремлённых атлетов.",
+        "features": [
+          "Всё из {shortName}",
+          "4 PT-сессии / месяц",
+          "Консультация по питанию",
+          "Индивидуальное программирование",
+          "Безлимитный «приведи друга»"
+        ]
+      }
+    },
+    "priceList": {
+      "day-pass": {
+        "name": "Day Pass",
+        "description": "Open floor access for one training day.",
+        "details": "Train until close on the open floor — racks, platforms, cardio, and locker access included. Towels at the desk. Peak hours fill fast, so arrive early if you want a platform. Valid for the calendar day you check in."
+      },
+      "personal-training": {
+        "name": "Personal Training",
+        "description": "A 60-minute 1:1 session with a coach.",
+        "details": "Sixty minutes one-to-one with a coach: warm-up, strength or conditioning block, and a cooldown. Programming is built around your goal — strength, fat loss, or return-to-training. Book at the desk or with your coach. Cancel at least 12 hours ahead."
+      },
+      "group-class": {
+        "name": "Group Class",
+        "description": "Coach-led session on the class timetable.",
+        "details": "A coached group session from the weekly timetable — strength, cycle, combat, or conditioning. Arrive 10 minutes early for setup. Drop-in is one class; members book in the app. Bring water and indoor shoes."
+      },
+      "recovery-session": {
+        "name": "Recovery Session",
+        "description": "Stretch, mobility, and recovery suite time.",
+        "details": "Guided mobility plus time in the recovery suite: stretch, breath work, and soft-tissue tools. Best the day after heavy lifting or a long class block. Sessions last about 45 minutes. Ask the floor coach if you are new to the suite."
+      },
+      "nutrition-consult": {
+        "name": "Nutrition Consult",
+        "description": "A focused plan for fueling your training.",
+        "details": "A 45-minute consult covering how you eat around training: protein targets, meal timing, and a simple weekly plan. Bring a typical food log if you have one. Follow-ups can be booked separately once the first plan is in place."
+      }
+    },
+    "products": {
+      "forge-performance-tee": {
+        "name": "Forge Performance Tee",
+        "description": "Breathable training tee with moisture-wicking fabric and a clean athletic cut.",
+        "category": "Apparel"
+      },
+      "iron-grip-straps": {
+        "name": "Iron Grip Straps",
+        "description": "Heavy-duty lifting straps for pulls and deadlifts when grip is the limiter.",
+        "category": "Accessories"
+      },
+      "forge-shaker": {
+        "name": "Forge Shaker",
+        "description": "Leak-proof 700ml shaker with mixing grid and matte black finish.",
+        "category": "Accessories"
+      },
+      "recovery-foam-roller": {
+        "name": "Recovery Foam Roller",
+        "description": "High-density roller for post-session soft tissue work.",
+        "category": "Recovery"
+      },
+      "forge-heavy-hoodie": {
+        "name": "Forge Heavy Hoodie",
+        "description": "Warm-up hoodie with reinforced seams and embroidered mark.",
+        "category": "Apparel"
+      },
+      "resistance-bands-set": {
+        "name": "Resistance Bands Set",
+        "description": "Four-level loop bands for warm-ups, assistance, and accessory work.",
+        "category": "Equipment"
+      }
+    },
+    "equipment": {
+      "competition-power-rack": {
+        "name": "Competition Power Rack",
+        "description": "Full cages with safety pins, band pegs, and dual pull-up stations for serious barbell work.",
+        "category": "Strength",
+        "hall": "Strength Floor"
+      },
+      "olympic-platforms": {
+        "name": "Olympic Platforms",
+        "description": "Dedicated pull/push platforms with bumper plates and calibrated bars.",
+        "category": "Strength",
+        "hall": "Strength Floor"
+      },
+      "smart-cycle-bikes": {
+        "name": "Smart Cycle Bikes",
+        "description": "Connected bikes with resistance sync, cadence tracking, and instructor-led rides.",
+        "category": "Cardio",
+        "hall": "Cycle Studio"
+      },
+      "heavy-bag-line": {
+        "name": "Heavy Bag Line",
+        "description": "Multiple bag stations for power, combinations, and conditioning rounds.",
+        "category": "Combat",
+        "hall": "Combat Bay"
+      },
+      "cold-plunge": {
+        "name": "Cold Plunge",
+        "description": "Temperature-controlled plunge for post-session recovery and nervous system reset.",
+        "category": "Recovery",
+        "hall": "Recovery Suite"
+      },
+      "cable-functional-rig": {
+        "name": "Cable Functional Rig",
+        "description": "Dual adjustable cables for accessory work, rehab patterns, and athletic drills.",
+        "category": "Functional",
+        "hall": "Strength Floor"
+      }
+    },
+    "blog": {
+      "progressive-overload-without-burnout": {
+        "title": "Progressive Overload Without Burnout",
+        "excerpt": "How to add load week after week while protecting joints, sleep, and long-term progress.",
+        "content": "Progressive overload is the engine of strength—but only when recovery keeps pace.\n\nStart by tracking one primary lift per session. Add the smallest useful increment when form stays clean for all working sets. If bar speed slows dramatically or joints ache the next morning, hold load and chase better reps instead.\n\nDeload every 4–6 weeks: cut volume by ~40% while keeping intensity familiar. Pair this with sleep targets and protein consistency. The goal is not endless escalation—it is sustainable capacity.\n\nForge tip: film your last working set. Visual feedback catches technical drift before injury does.",
+        "tags": [
+          "Strength",
+          "Programming"
+        ]
+      },
+      "hiit-that-actually-transfers": {
+        "title": "HIIT That Actually Transfers",
+        "excerpt": "Not all intervals are equal. Build conditioning that supports your sport and lifts.",
+        "content": "Random burpee circuits are not a conditioning plan.\n\nEffective HIIT matches work:rest to the energy system you want. For strength athletes, shorter sprints with longer recovery preserve power. For fat loss phases, slightly longer work intervals with moderate rest raise average heart rate without wrecking the next squat day.\n\nKeep sessions under 30 minutes of hard work. Warm up thoroughly. Cool down with nasal breathing. Track RPE—not just calories.\n\nForge tip: place HIIT after skill work, never before a heavy lower-body day.",
+        "tags": [
+          "HIIT",
+          "Conditioning"
+        ]
+      },
+      "mobility-is-not-optional": {
+        "title": "Mobility Is Not Optional",
+        "excerpt": "Range you own is range you can load. A practical weekly mobility template.",
+        "content": "Mobility work is training, not a soft add-on.\n\nSpend 10 minutes before lifting on joints you load that day. Hips and ankles before squats. Thoracic rotation before pressing. After training, use longer holds and soft tissue for tissues that felt sticky.\n\nConsistency beats marathon stretch sessions. Three short sessions weekly outperform one hour on Sunday.\n\nForge tip: test a position, train it, retest. If nothing changes, change the drill—not just the duration.",
+        "tags": [
+          "Mobility",
+          "Recovery"
+        ]
+      }
+    },
+    "faq": {
+      "f1": {
+        "q": "Do I need experience to join Forge?",
+        "a": "No. We coach beginners through advanced athletes. Your first session includes an orientation so you know the floor, safety standards, and how to book trainers."
+      },
+      "f2": {
+        "q": "How do trainer reservations work?",
+        "a": "Pick a trainer, choose a session type, select an open slot, and confirm. You can manage bookings from your dashboard. Trainers can confirm or decline pending requests."
+      },
+      "f3": {
+        "q": "Can I freeze my membership?",
+        "a": "Yes. Forge and Elite plans include one freeze period of up to 30 days per year. Contact us at least 5 days before the freeze start date."
+      },
+      "f4": {
+        "q": "What should I bring to my first visit?",
+        "a": "Training shoes, a water bottle, and clothes you can move in. Towels and day lockers are available on-site. We recommend arriving 15 minutes early."
+      },
+      "f5": {
+        "q": "Are the saloons included in all plans?",
+        "a": "Strength Floor access is included in every plan. Cycle Studio, Recovery Suite, and Combat Bay access vary by membership tier—see Pricing for details."
+      },
+      "f6": {
+        "q": "Is there parking?",
+        "a": "Validated underground parking is available for members during training hours. Street parking and bike racks are nearby."
+      }
+    },
+    "static": {
+      "privacy": {
+        "title": "Политика конфиденциальности",
+        "content": "{name} уважает вашу конфиденциальность. Этот демо-сайт хранит данные аккаунта и бронирований локально в браузере только для демонстрации.\n\nВ этой frontend-сборке мы не передаём персональные данные на продакшен-сервер. В живом развёртывании мы описали бы контролёров данных, сроки хранения, использование cookie и ваши права по применимому закону о конфиденциальности.\n\nПо вопросам конфиденциальности пишите на hello@forgeathletics.com."
+      },
+      "terms": {
+        "title": "Условия использования",
+        "content": "Используя цифровые сервисы {name}, вы соглашаетесь тренироваться ответственно и соблюдать правила объекта.\n\nЧленства непередаваемы. Бронирования можно отменять согласно политике, показанной при оформлении. Тренировки сопряжены с риском — проконсультируйтесь с врачом перед новой программой.\n\nЭтот frontend-демо предназначен для презентации и не создаёт обязывающий коммерческий договор."
+      },
+      "amenities": {
+        "title": "Удобства",
+        "content": "{name} включает полноценный силовой зал, велостудию, боевую зону и зону восстановления.\n\nДоступны дневные шкафчики, душевые, фильтрованная вода и обслуживание полотенцами. Участники планов {shortName} и Elite получают доступ к зоне восстановления и приоритетное бронирование занятий.\n\nWifi покрывает лаунж и зоны восстановления. Гостевые пропуска зависят от уровня членства."
+      }
+    },
+    "testimonials": {
+      "tm1": {
+        "quote": "The coaching is sharp and the halls feel purpose-built. I finally have a program that sticks.",
+        "role": "Forge member · 14 months"
+      },
+      "tm2": {
+        "quote": "Booking Maya was seamless. Progressive overload without ego lifting—exactly what I needed.",
+        "role": "Strength athlete"
+      },
+      "tm3": {
+        "quote": "Cycle studio nights hit different. Atmosphere is dark, loud, and focused—in the best way.",
+        "role": "HIIT regular"
+      },
+      "tm4": {
+        "quote": "Recovery suite after heavy days changed my consistency. Forge treats training like a craft.",
+        "role": "Elite plan"
+      }
+    }
+  },
+  "share": {
+    "badge": "Соцбронирование",
+    "title": "QR и ссылка",
+    "subtitle": "Активируйте публичную ссылку и QR-код для Instagram, WhatsApp и других сетей.",
+    "activate": "Активировать",
+    "deactivate": "Отключить",
+    "shareLink": "Ссылка",
+    "copyLink": "Копировать",
+    "copied": "Скопировано",
+    "preview": "Предпросмотр",
+    "socialHint": "Поделитесь QR или ссылкой в соцсетях. Гости попадут на профиль с кнопкой записи.",
+    "inactiveHint": "Ссылка и QR выключены. Активируйте, чтобы клиенты могли записаться из соцсетей.",
+    "inactiveTitle": "Ссылка неактивна",
+    "inactiveBody": "Тренер ещё не активировал публичную ссылку для записи.",
+    "publicBadge": "Записаться к тренеру",
+    "fullProfile": "Полный профиль"
+  }
+}

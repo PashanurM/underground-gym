@@ -1,0 +1,22 @@
+import type { NextConfig } from "next";
+import createNextIntlPlugin from "next-intl/plugin";
+
+const withNextIntl = createNextIntlPlugin("./src/i18n/request.ts");
+
+const nextConfig: NextConfig = {
+  images: {
+    loader: "custom",
+    loaderFile: "./src/lib/unsplash-loader.ts",
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "images.unsplash.com",
+      },
+    ],
+    qualities: [75, 85, 90, 95],
+    deviceSizes: [640, 750, 828, 1080, 1200, 1600, 1920, 2048, 3840],
+    imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
+  },
+};
+
+export default withNextIntl(nextConfig);

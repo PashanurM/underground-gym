@@ -1,0 +1,688 @@
+{
+  "meta": {
+    "titleDefault": "{name} | Premium Antrenman",
+    "titleTemplate": "{title} | {name}",
+    "description": "Daha sert antrenman yap. Çelik gibi ol."
+  },
+  "brand": {
+    "name": "Underground Gym",
+    "shortName": "Underground",
+    "tagline": "Daha sert antrenman yap. Çelik gibi ol.",
+    "eyebrow": "Underground Gym"
+  },
+  "nav": {
+    "home": "Ana sayfa",
+    "about": "Hakkımızda",
+    "gym": "Spor salonu",
+    "branches": "Şubeler",
+    "halls": "Salonlar",
+    "trainers": "Antrenörler",
+    "services": "Hizmetler",
+    "tools": "Araçlar",
+    "equipment": "Ekipman",
+    "pricing": "Fiyatlar",
+    "shop": "Mağaza",
+    "blog": "Blog",
+    "faq": "SSS",
+    "contact": "İletişim",
+    "join": "Katıl",
+    "joinForge": "{shortName} ailesine katıl",
+    "dashboard": "Panel",
+    "logout": "Çıkış",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat",
+    "language": "Dil"
+  },
+  "footer": {
+    "explore": "Keşfet",
+    "visit": "Ziyaret",
+    "privacy": "Gizlilik",
+    "terms": "Şartlar",
+    "rights": "© {year} {name}. Niyetle antrenman yap."
+  },
+  "common": {
+    "backHome": "Ana sayfaya dön",
+    "loading": "Yükleniyor…",
+    "years": "yıl",
+    "capacity": "Kapasite {count}",
+    "exploreHall": "Salonu keşfet",
+    "getAccess": "Erişim al",
+    "askAboutThis": "Bunu sor",
+    "allTrainers": "Tüm antrenörler",
+    "trainersCount": "{count, plural, one {# antrenör} other {# antrenör}}",
+    "viewPricing": "Fiyatlara bak",
+    "bookSession": "Seans ayırt",
+    "bookTrainer": "Antrenör ayırt",
+    "moreProducts": "Daha fazla ürün",
+    "inquireInClub": "Kulüpte sor",
+    "seeHalls": "Salonlara bak",
+    "trainingTools": "Antrenman araçları",
+    "viewEquipment": "Ekipmana bak",
+    "sessionTypes": "Seans türleri",
+    "features": "Özellikler",
+    "min": "dk",
+    "mostPopular": "En popüler",
+    "startPlan": "{name} planına başla",
+    "backBlog": "← Blog",
+    "backShop": "← Mağaza",
+    "hallLabel": "Salon 0{n}",
+    "hallsZallar": "Salonlar",
+    "facilityAlt": "{name} tesisi",
+    "gymFloorAlt": "Salon zemini",
+    "perMonth": "/ ay",
+    "scrollTop": "Yukarı çık"
+  },
+  "home": {
+    "heroHeadline": "Daha sert antrenman yap. Çelik gibi ol.",
+    "heroSub": "Güç, kondisyon ve toparlanma tek çatı altında—niyetle koçluk.",
+    "joinCta": "{shortName} ailesine katıl",
+    "bookCta": "Antrenör ayırt",
+    "coachesTitle": "Seni zorlayan koçlar",
+    "coachesSub": "Güç, HIIT, mobilite ve dövüş uzmanlarıyla seans ayırtın.",
+    "scrollFloors": "Katları kaydır",
+    "scrollFloorsSub": "Amaca özel salonlar kaydırdıkça dizilir — güç, bisiklet, toparlanma, dövüş.",
+    "programsTitle": "Programlar ve hizmetler",
+    "programsSub": "Güç sistemlerinden beslenme koçluğuna—yolunu seç.",
+    "pricingTitle": "Yoğunluğa uyan üyelik",
+    "pricingSub": "Açık salon, sınırsız dersler veya tam koçluk paketi—forge seviyeni seç.",
+    "blogTitle": "Salondan",
+    "blogSub": "Programlama notları, toparlanma ve antrenman kültürü.",
+    "testimonialsTitle": "Üyeler ne diyor",
+    "testimonialsSub": "{shortName}'da antrenman yapan sporculardan gerçek geri bildirim."
+  },
+  "about": {
+    "title": "{name} hakkında",
+    "subtitle": "Yapı, atmosfer ve sonuç isteyen sporcular için kurulmuş bir antrenman evi.",
+    "lead": "Emeğin görünür, ilerlemenin ölçülür olduğu bir alan dövdük.",
+    "body": "{name} bir güç kolektifi olarak başladı ve tam tesise dönüştü—güç salonu, bisiklet stüdyosu, dövüş alanı ve toparlanma süiti tek çatı altında. Yeni başlayanlardan yarışmacılara aynı standartla koçluk yapıyoruz: gel, akıllı antrenman yap, daha iyi ayrıl.",
+    "valuesTitle": "Ne için duruyoruz",
+    "valuesSub": "Salondaki her seansı şekillendiren üç ilke.",
+    "values": {
+      "v1Title": "Niyetli yoğunluk",
+      "v1Body": "Her seansın bir amacı var. Biriken ağır işi programlıyoruz.",
+      "v2Title": "Önce koçluk",
+      "v2Body": "Makineler formu düzeltmez. Koçlarımız düzeltir—salonda, her gün.",
+      "v3Title": "Yükselmek için toparlan",
+      "v3Body": "Toparlanmasız güç kısa ömürlüdür. Süit bunun için var."
+    }
+  },
+  "pages": {
+    "trainers": {
+      "title": "Antrenörler",
+      "subtitle": "Hedeflerinize uzmanlaşmış koçlarla bire bir seanslar ayırtın."
+    },
+    "branches": {
+      "title": "Şubeler",
+      "subtitle": "Size yakın bir {shortName} konumu bulun—her birinin kendi salonu ve koç ekibi var.",
+      "trainersLabel": "Koçlar",
+      "trainersTitle": "Bu şubedeki antrenörler",
+      "trainersSubtitle": "Bu lokasyondaki koçlarla seans rezervasyonu yapın.",
+      "noTrainers": "Bu şubede henüz antrenör yok."
+    },
+    "halls": {
+      "title": "Salonlar",
+      "subtitle": "Zallar — güç, bisiklet, toparlanma ve dövüş için amaca özel odalar."
+    },
+    "services": {
+      "title": "Hizmetler",
+      "subtitle": "İğneyi hareket ettiren dersler, koçluk ve programlar."
+    },
+    "pricing": {
+      "title": "Fiyatlar",
+      "subtitle": "Net liste: ad ve fiyat.",
+      "moreInfo": "Daha fazla",
+      "close": "Kapat"
+    },
+    "pricingOld": {
+      "title": "Üyelikler",
+      "subtitle": "Ne kadar sert antrenman yapmak istediğinize uyan üyeliği seçin."
+    },
+    "shop": {
+      "title": "Mağaza",
+      "subtitle": "Antrenman günleri için giyim ve ekipman.",
+      "all": "Tümü",
+      "count": "{count, plural, one {# ürün} other {# ürün}}",
+      "viewProduct": "Ürünü gör",
+      "inClub": "Kulüpte teslim alınabilir",
+      "related": "Mağazadan daha fazlası",
+      "empty": "Bu kategoride henüz ürün yok."
+    },
+    "tools": {
+      "title": "Araçlar",
+      "subtitle": "Antrenman ve beslenme planlaması için hesaplayıcılar.",
+      "needMachines": "Makinelere mi ihtiyacınız var?",
+      "needMachinesSub": "Her salonda rack'ler, bisikletler, torbalar ve toparlanma ekipmanına bakın."
+    },
+    "equipment": {
+      "title": "Ekipman",
+      "subtitle": "Her salonda makineler, rack'ler ve toparlanma araçları."
+    },
+    "blog": {
+      "title": "Blog",
+      "subtitle": "{shortName} salonundan antrenman notları."
+    },
+    "faq": {
+      "title": "SSS",
+      "subtitle": "Üyelik, rezervasyon ve {shortName} ziyareti hakkında hızlı yanıtlar."
+    },
+    "contact": {
+      "title": "İletişim",
+      "subtitle": "Salonu gezin, üyelikleri sorun veya koçluk tavsiyesi alın.",
+      "visit": "Ziyaret",
+      "mapPlaceholder": "Harita yer tutucu · {city}"
+    },
+    "login": {
+      "title": "Giriş",
+      "subtitle": "Rezervasyonlarınıza ve panelinize erişin."
+    },
+    "register": {
+      "title": "Kayıt",
+      "subtitle": "Antrenör ayırtmak için üye hesabı oluşturun."
+    },
+    "reserve": {
+      "title": "{name} ayırt",
+      "subtitle": "Seans türü, tarih ve açık slot seçin."
+    },
+    "dashboard": {
+      "title": "Panel"
+    },
+    "notFound": {
+      "title": "Sayfa henüz dövülmedi",
+      "body": "Bu rota mevcut değil."
+    }
+  },
+  "auth": {
+    "email": "E-posta",
+    "password": "Şifre",
+    "name": "Ad",
+    "signIn": "Giriş yap",
+    "createAccount": "Hesap oluştur",
+    "noAccount": "Hesabınız yok mu?",
+    "register": "Kayıt ol",
+    "haveAccount": "Zaten hesabınız var mı?",
+    "demoAccounts": "Demo profiller",
+    "invalid": "Geçersiz e-posta veya şifre.",
+    "exists": "Bu e-posta ile bir hesap zaten mevcut.",
+    "passwordShort": "Şifre en az 6 karakter olmalıdır.",
+    "demoHint": "Giriş bilgilerini doldurmak için bir role dokunun.",
+    "selected": "Seçildi",
+    "roles": {
+      "admin": "Yönetici",
+      "trainer": "Antrenör",
+      "user": "Üye"
+    },
+    "roleHints": {
+      "admin": "Tesis özeti, antrenörler, ürünler, tüm rezervasyonlar.",
+      "trainer": "Seans talepleri, kabul/red, QR paylaşım linki.",
+      "user": "Koç rezerve edin ve seanslarınızı yönetin."
+    }
+  },
+  "contactForm": {
+    "name": "Ad",
+    "email": "E-posta",
+    "message": "Mesaj",
+    "send": "Mesaj gönder",
+    "fillAll": "Lütfen tüm alanları doldurun.",
+    "validEmail": "Geçerli bir e-posta girin.",
+    "sent": "Mesaj alındı (demo). Yakında size döneceğiz."
+  },
+  "booking": {
+    "signInPrompt": "{name} ile seans ayırtmak için giriş yapın.",
+    "signInToBook": "Ayırtmak için giriş yap",
+    "booked": "Ayırtıldı",
+    "redirecting": "Panelinize yönlendiriliyorsunuz…",
+    "step1": "1. Seans türü",
+    "step2": "2. Tarih",
+    "step3": "3. Zaman dilimi",
+    "pending": "Antrenörden onay bekleniyor",
+    "confirm": "Rezervasyonu onayla"
+  },
+  "dashboard": {
+    "roleDashboard": "{role} paneli",
+    "yourBookings": "Rezervasyonlarınız",
+    "noBookings": "Henüz rezervasyon yok.",
+    "findTrainer": "Antrenör bul",
+    "incoming": "Gelen rezervasyonlar",
+    "noRequests": "Henüz rezervasyon talebi yok.",
+    "accept": "Kabul et",
+    "decline": "Reddet",
+    "cancel": "İptal",
+    "trainers": "Antrenörler",
+    "saloons": "Salonlar",
+    "products": "Ürünler",
+    "allBookings": "Tüm rezervasyonlar",
+    "noBookingsYet": "Henüz rezervasyon yok.",
+    "adminBadge": "Yönetici paneli",
+    "adminIntro": "Antrenörleri, salonları, mağaza kataloğunu ve {shortName} üzerindeki tüm rezervasyonları yönetin.",
+    "trainerBadge": "Antrenör masası",
+    "trainerIntro": "Seans taleplerini yönetin ve sosyal rezervasyon QR kodunuzu etkinleştirin.",
+    "memberBadge": "Üye merkezi",
+    "memberIntro": "Seanslarınızı takip edin ve birkaç dokunuşla sonraki koçu rezerve edin.",
+    "viewProfile": "Profili gör",
+    "pendingCount": "Bekleyen",
+    "confirmedCount": "Onaylanan",
+    "totalRequests": "Toplam"
+  },
+  "tools": {
+    "bmi": "VKİ",
+    "height": "Boy (cm)",
+    "weight": "Kilo (kg)",
+    "bmiNote": "Yalnızca tahmin—tıbbi tavsiye değildir.",
+    "oneRm": "1RM tahmini",
+    "weightLifted": "Kaldırılan ağırlık (kg)",
+    "reps": "Tekrarlar",
+    "oneRmNote": "Epley formülü tahmini.",
+    "macros": "Makro rehberi",
+    "bodyweight": "Vücut ağırlığı (kg)",
+    "goal": "Hedef",
+    "cut": "Kesim",
+    "maintain": "Koruma",
+    "bulk": "Kütle",
+    "kcal": "kcal",
+    "macrosLine": "P {protein}g · K {carbs}g · Y {fat}g"
+  },
+  "status": {
+    "pending": "bekliyor",
+    "confirmed": "onaylandı",
+    "declined": "reddedildi",
+    "cancelled": "iptal edildi"
+  },
+  "content": {
+    "trainers": {
+      "maya-stone": {
+        "title": "Strength Coach",
+        "bio": "Maya builds raw power with precise programming. Former competitive powerlifter turned coach who thrives on progressive overload and form mastery.",
+        "specialties": [
+          "Powerlifting",
+          "Hypertrophy",
+          "Mobility"
+        ]
+      },
+      "kai-rivers": {
+        "title": "HIIT & Conditioning",
+        "bio": "Kai engineers high-intensity sessions that torch fat and build athletic endurance without burning you out.",
+        "specialties": [
+          "HIIT",
+          "Metabolic Conditioning",
+          "Athletic Performance"
+        ]
+      },
+      "elena-voss": {
+        "title": "Mobility & Recovery",
+        "bio": "Elena restores range and resilience. Her sessions blend mobility, breathwork, and smart recovery protocols.",
+        "specialties": [
+          "Mobility",
+          "Recovery",
+          "Corrective Exercise"
+        ]
+      },
+      "dante-cole": {
+        "title": "Boxing & Functional",
+        "bio": "Dante brings fight-gym energy to every session—footwork, power, and functional strength that transfers to real life.",
+        "specialties": [
+          "Boxing",
+          "Functional Strength",
+          "Core"
+        ]
+      }
+    },
+    "sessionTypes": {
+      "pt": "Kişisel antrenman",
+      "consult": "Program danışmanlığı",
+      "intro": "Ders tanıtımı"
+    },
+    "branches": {
+      "downtown-forge": {
+        "name": "Downtown Forge",
+        "description": "Our flagship floor in the heart of Metro City—full strength hall, cycle studio, and coaching desk open late.",
+        "address": "420 Ironworks Ave",
+        "city": "Metro City",
+        "phone": "+1 (555) 014-2090",
+        "hours": "Mon–Fri 5:00–23:00 · Sat–Sun 7:00–21:00",
+        "features": [
+          "Full strength floor",
+          "Cycle studio",
+          "Recovery suite",
+          "Member lounge"
+        ]
+      },
+      "riverside-forge": {
+        "name": "Riverside Forge",
+        "description": "Riverfront training house focused on conditioning, mobility, and recovery with floor-to-ceiling glass and open mats.",
+        "address": "88 Quayline Rd",
+        "city": "Metro City",
+        "phone": "+1 (555) 014-2091",
+        "hours": "Mon–Fri 6:00–22:00 · Sat–Sun 8:00–20:00",
+        "features": [
+          "HIIT zone",
+          "Mobility studio",
+          "Cold plunge",
+          "Outdoor warm-up deck"
+        ]
+      },
+      "west-end-forge": {
+        "name": "West End Forge",
+        "description": "Combat-forward branch with heavy bags, functional lanes, and coaches who train fighters and everyday athletes alike.",
+        "address": "15 Anvil Court",
+        "city": "Metro City",
+        "phone": "+1 (555) 014-2092",
+        "hours": "Mon–Fri 5:30–22:30 · Sat–Sun 8:00–20:00",
+        "features": [
+          "Combat bay",
+          "Functional lanes",
+          "Sparring mats",
+          "Performance track"
+        ]
+      }
+    },
+    "halls": {
+      "strength-floor": {
+        "name": "Strength Floor",
+        "description": "Olympic platforms, competition racks, and specialty bars. Built for serious lifting with open sightlines and dense rubber flooring.",
+        "features": [
+          "Power racks",
+          "Bumper plates",
+          "Deadlift platforms",
+          "Cable stations"
+        ]
+      },
+      "cycle-studio": {
+        "name": "Cycle Studio",
+        "description": "Immersive ride room with synced lighting and instructor-led climbs. High-energy sessions that feel like a night ride.",
+        "features": [
+          "Smart bikes",
+          "LED sync",
+          "Heart-rate tracking",
+          "Sound system"
+        ]
+      },
+      "recovery-suite": {
+        "name": "Recovery Suite",
+        "description": "Quiet zone for soft tissue work, breath practice, and post-session reset. Where intensity meets restoration.",
+        "features": [
+          "Foam rolling",
+          "Stretch zones",
+          "Cold plunge access",
+          "Massage guns"
+        ]
+      },
+      "combat-bay": {
+        "name": "Combat Bay",
+        "description": "Heavy bags, open mats, and sparring space for boxing and functional fight training.",
+        "features": [
+          "Heavy bags",
+          "Open mats",
+          "Speed bags",
+          "Mirror wall"
+        ]
+      }
+    },
+    "services": {
+      "strength-systems": {
+        "name": "Strength Systems",
+        "description": "Periodized lifting programs for hypertrophy, strength, and athletic power—coached live on the floor.",
+        "category": "Training"
+      },
+      "forge-hiit": {
+        "name": "Forge HIIT",
+        "description": "Short, savage intervals that spike metabolism and build work capacity in under 45 minutes.",
+        "category": "Conditioning"
+      },
+      "mobility-lab": {
+        "name": "Mobility Lab",
+        "description": "Joint prep, soft tissue, and movement quality sessions that keep you training longer.",
+        "category": "Recovery"
+      },
+      "boxing-fundamentals": {
+        "name": "Boxing Fundamentals",
+        "description": "Stance, punch mechanics, and pad work for beginners through intermediate fighters.",
+        "category": "Combat"
+      },
+      "nutrition-coaching": {
+        "name": "Nutrition Coaching",
+        "description": "Practical fueling plans aligned with your training block—no crash diets, just consistency.",
+        "category": "Coaching"
+      },
+      "group-cycles": {
+        "name": "Group Cycles",
+        "description": "Instructor-led rides with climbs, sprints, and soundtrack-driven pacing.",
+        "category": "Cardio"
+      }
+    },
+    "pricing": {
+      "ignite": {
+        "name": "Ignite",
+        "description": "Açık salon erişimi ve temel dersler.",
+        "features": [
+          "Salon erişimi",
+          "Haftada 2 grup ders",
+          "Günlük dolap kullanımı",
+          "Uygulama antrenman kütüphanesi"
+        ]
+      },
+      "forge": {
+        "name": "{shortName}",
+        "description": "Sınırsız dersler artı toparlanma süiti erişimi.",
+        "features": [
+          "Sınırsız grup dersleri",
+          "Toparlanma süiti erişimi",
+          "Ayda 1 PT seansı",
+          "Aylık misafir geçişi",
+          "Öncelikli rezervasyon"
+        ]
+      },
+      "elite": {
+        "name": "Elite",
+        "description": "Kararlı sporcular için tam koçluk paketi.",
+        "features": [
+          "{shortName}'daki her şey",
+          "Ayda 4 PT seansı",
+          "Beslenme danışmanlığı",
+          "Özel programlama",
+          "Sınırsız arkadaş getirme"
+        ]
+      }
+    },
+    "priceList": {
+      "day-pass": {
+        "name": "Day Pass",
+        "description": "Open floor access for one training day.",
+        "details": "Train until close on the open floor — racks, platforms, cardio, and locker access included. Towels at the desk. Peak hours fill fast, so arrive early if you want a platform. Valid for the calendar day you check in."
+      },
+      "personal-training": {
+        "name": "Personal Training",
+        "description": "A 60-minute 1:1 session with a coach.",
+        "details": "Sixty minutes one-to-one with a coach: warm-up, strength or conditioning block, and a cooldown. Programming is built around your goal — strength, fat loss, or return-to-training. Book at the desk or with your coach. Cancel at least 12 hours ahead."
+      },
+      "group-class": {
+        "name": "Group Class",
+        "description": "Coach-led session on the class timetable.",
+        "details": "A coached group session from the weekly timetable — strength, cycle, combat, or conditioning. Arrive 10 minutes early for setup. Drop-in is one class; members book in the app. Bring water and indoor shoes."
+      },
+      "recovery-session": {
+        "name": "Recovery Session",
+        "description": "Stretch, mobility, and recovery suite time.",
+        "details": "Guided mobility plus time in the recovery suite: stretch, breath work, and soft-tissue tools. Best the day after heavy lifting or a long class block. Sessions last about 45 minutes. Ask the floor coach if you are new to the suite."
+      },
+      "nutrition-consult": {
+        "name": "Nutrition Consult",
+        "description": "A focused plan for fueling your training.",
+        "details": "A 45-minute consult covering how you eat around training: protein targets, meal timing, and a simple weekly plan. Bring a typical food log if you have one. Follow-ups can be booked separately once the first plan is in place."
+      }
+    },
+    "products": {
+      "forge-performance-tee": {
+        "name": "Forge Performance Tee",
+        "description": "Breathable training tee with moisture-wicking fabric and a clean athletic cut.",
+        "category": "Apparel"
+      },
+      "iron-grip-straps": {
+        "name": "Iron Grip Straps",
+        "description": "Heavy-duty lifting straps for pulls and deadlifts when grip is the limiter.",
+        "category": "Accessories"
+      },
+      "forge-shaker": {
+        "name": "Forge Shaker",
+        "description": "Leak-proof 700ml shaker with mixing grid and matte black finish.",
+        "category": "Accessories"
+      },
+      "recovery-foam-roller": {
+        "name": "Recovery Foam Roller",
+        "description": "High-density roller for post-session soft tissue work.",
+        "category": "Recovery"
+      },
+      "forge-heavy-hoodie": {
+        "name": "Forge Heavy Hoodie",
+        "description": "Warm-up hoodie with reinforced seams and embroidered mark.",
+        "category": "Apparel"
+      },
+      "resistance-bands-set": {
+        "name": "Resistance Bands Set",
+        "description": "Four-level loop bands for warm-ups, assistance, and accessory work.",
+        "category": "Equipment"
+      }
+    },
+    "equipment": {
+      "competition-power-rack": {
+        "name": "Competition Power Rack",
+        "description": "Full cages with safety pins, band pegs, and dual pull-up stations for serious barbell work.",
+        "category": "Strength",
+        "hall": "Strength Floor"
+      },
+      "olympic-platforms": {
+        "name": "Olympic Platforms",
+        "description": "Dedicated pull/push platforms with bumper plates and calibrated bars.",
+        "category": "Strength",
+        "hall": "Strength Floor"
+      },
+      "smart-cycle-bikes": {
+        "name": "Smart Cycle Bikes",
+        "description": "Connected bikes with resistance sync, cadence tracking, and instructor-led rides.",
+        "category": "Cardio",
+        "hall": "Cycle Studio"
+      },
+      "heavy-bag-line": {
+        "name": "Heavy Bag Line",
+        "description": "Multiple bag stations for power, combinations, and conditioning rounds.",
+        "category": "Combat",
+        "hall": "Combat Bay"
+      },
+      "cold-plunge": {
+        "name": "Cold Plunge",
+        "description": "Temperature-controlled plunge for post-session recovery and nervous system reset.",
+        "category": "Recovery",
+        "hall": "Recovery Suite"
+      },
+      "cable-functional-rig": {
+        "name": "Cable Functional Rig",
+        "description": "Dual adjustable cables for accessory work, rehab patterns, and athletic drills.",
+        "category": "Functional",
+        "hall": "Strength Floor"
+      }
+    },
+    "blog": {
+      "progressive-overload-without-burnout": {
+        "title": "Progressive Overload Without Burnout",
+        "excerpt": "How to add load week after week while protecting joints, sleep, and long-term progress.",
+        "content": "Progressive overload is the engine of strength—but only when recovery keeps pace.\n\nStart by tracking one primary lift per session. Add the smallest useful increment when form stays clean for all working sets. If bar speed slows dramatically or joints ache the next morning, hold load and chase better reps instead.\n\nDeload every 4–6 weeks: cut volume by ~40% while keeping intensity familiar. Pair this with sleep targets and protein consistency. The goal is not endless escalation—it is sustainable capacity.\n\nForge tip: film your last working set. Visual feedback catches technical drift before injury does.",
+        "tags": [
+          "Strength",
+          "Programming"
+        ]
+      },
+      "hiit-that-actually-transfers": {
+        "title": "HIIT That Actually Transfers",
+        "excerpt": "Not all intervals are equal. Build conditioning that supports your sport and lifts.",
+        "content": "Random burpee circuits are not a conditioning plan.\n\nEffective HIIT matches work:rest to the energy system you want. For strength athletes, shorter sprints with longer recovery preserve power. For fat loss phases, slightly longer work intervals with moderate rest raise average heart rate without wrecking the next squat day.\n\nKeep sessions under 30 minutes of hard work. Warm up thoroughly. Cool down with nasal breathing. Track RPE—not just calories.\n\nForge tip: place HIIT after skill work, never before a heavy lower-body day.",
+        "tags": [
+          "HIIT",
+          "Conditioning"
+        ]
+      },
+      "mobility-is-not-optional": {
+        "title": "Mobility Is Not Optional",
+        "excerpt": "Range you own is range you can load. A practical weekly mobility template.",
+        "content": "Mobility work is training, not a soft add-on.\n\nSpend 10 minutes before lifting on joints you load that day. Hips and ankles before squats. Thoracic rotation before pressing. After training, use longer holds and soft tissue for tissues that felt sticky.\n\nConsistency beats marathon stretch sessions. Three short sessions weekly outperform one hour on Sunday.\n\nForge tip: test a position, train it, retest. If nothing changes, change the drill—not just the duration.",
+        "tags": [
+          "Mobility",
+          "Recovery"
+        ]
+      }
+    },
+    "faq": {
+      "f1": {
+        "q": "Do I need experience to join Forge?",
+        "a": "No. We coach beginners through advanced athletes. Your first session includes an orientation so you know the floor, safety standards, and how to book trainers."
+      },
+      "f2": {
+        "q": "How do trainer reservations work?",
+        "a": "Pick a trainer, choose a session type, select an open slot, and confirm. You can manage bookings from your dashboard. Trainers can confirm or decline pending requests."
+      },
+      "f3": {
+        "q": "Can I freeze my membership?",
+        "a": "Yes. Forge and Elite plans include one freeze period of up to 30 days per year. Contact us at least 5 days before the freeze start date."
+      },
+      "f4": {
+        "q": "What should I bring to my first visit?",
+        "a": "Training shoes, a water bottle, and clothes you can move in. Towels and day lockers are available on-site. We recommend arriving 15 minutes early."
+      },
+      "f5": {
+        "q": "Are the saloons included in all plans?",
+        "a": "Strength Floor access is included in every plan. Cycle Studio, Recovery Suite, and Combat Bay access vary by membership tier—see Pricing for details."
+      },
+      "f6": {
+        "q": "Is there parking?",
+        "a": "Validated underground parking is available for members during training hours. Street parking and bike racks are nearby."
+      }
+    },
+    "static": {
+      "privacy": {
+        "title": "Gizlilik politikası",
+        "content": "{name} gizliliğinize saygı duyar. Bu demo sitesi hesap ve rezervasyon verilerini yalnızca gösterim amaçlı olarak tarayıcınızda yerel olarak saklar.\n\nBu yalnızca frontend yapıda kişisel bilgileri bir üretim sunucusuna iletmiyoruz. Canlı bir dağıtımda veri sorumlularını, saklama sürelerini, çerez kullanımını ve geçerli gizlilik yasası altındaki haklarınızı özetlerdik.\n\nGizlilik soruları için hello@forgeathletics.com ile iletişime geçin."
+      },
+      "terms": {
+        "title": "Hizmet şartları",
+        "content": "{name} dijital hizmetlerini kullanarak sorumlu antrenman yapmayı ve tesis kurallarına uymayı kabul edersiniz.\n\nÜyelikler devredilemez. Rezervasyonlar ödeme sırasında gösterilen politikaya göre iptal edilebilir. Antrenman doğası gereği risk taşır—yeni bir programa başlamadan önce bir hekime danışın.\n\nBu frontend demo sunum amaçlıdır ve bağlayıcı bir ticari sözleşme oluşturmaz."
+      },
+      "amenities": {
+        "title": "Olanaklar",
+        "content": "{name} tam güç salonu, bisiklet stüdyosu, dövüş alanı ve toparlanma süiti içerir.\n\nGünlük dolaplar, duşlar, filtreli su ve havlu hizmeti mevcuttur. {shortName} ve Elite planlarındaki üyeler toparlanma süiti erişimi ve öncelikli ders rezervasyonu alır.\n\nWifi lounge ve toparlanma alanlarını kapsar. Misafir geçişleri üyelik kademenize bağlıdır."
+      }
+    },
+    "testimonials": {
+      "tm1": {
+        "quote": "The coaching is sharp and the halls feel purpose-built. I finally have a program that sticks.",
+        "role": "Forge member · 14 months"
+      },
+      "tm2": {
+        "quote": "Booking Maya was seamless. Progressive overload without ego lifting—exactly what I needed.",
+        "role": "Strength athlete"
+      },
+      "tm3": {
+        "quote": "Cycle studio nights hit different. Atmosphere is dark, loud, and focused—in the best way.",
+        "role": "HIIT regular"
+      },
+      "tm4": {
+        "quote": "Recovery suite after heavy days changed my consistency. Forge treats training like a craft.",
+        "role": "Elite plan"
+      }
+    }
+  },
+  "share": {
+    "badge": "Sosyal rezervasyon",
+    "title": "QR ve paylaşım linki",
+    "subtitle": "Instagram, WhatsApp ve daha fazlası için genel rezervasyon linkinizi ve QR kodunuzu etkinleştirin.",
+    "activate": "Linki etkinleştir",
+    "deactivate": "Devre dışı bırak",
+    "shareLink": "Paylaşım linki",
+    "copyLink": "Linki kopyala",
+    "copied": "Kopyalandı",
+    "preview": "Sayfayı önizle",
+    "socialHint": "Bu QR veya linki sosyal medyada paylaşın. Ziyaretçiler doğrudan rezervasyon CTA ile profilinize gelir.",
+    "inactiveHint": "Paylaşım linkiniz ve QR kapalı. Müşterilerin sosyal hesaplarınızdan rezervasyon yapması için etkinleştirin.",
+    "inactiveTitle": "Link aktif değil",
+    "inactiveBody": "Bu antrenör henüz genel rezervasyon linkini etkinleştirmedi.",
+    "publicBadge": "Bu koçu rezerve et",
+    "fullProfile": "Tam profil"
+  }
+}
